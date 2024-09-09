@@ -1,0 +1,36 @@
+[submodule "EngAce"]
+	path = EngAce
+	url = https://github.com/phanxuanquang/EngAce
+[submodule "SE121 - Đồ án 1/COVIDealer"]
+	path = SE121 - Đồ án 1/COVIDealer
+	url = https://github.com/phanxuanquang/COVIDealer
+[submodule "SE122 - Đồ án 2/lapteller"]
+	path = SE122 - Đồ án 2/lapteller
+	url = https://github.com/tuan20520342/lapteller
+[submodule "SE310 - Công nghệ .NET/Đồ án môn học/InstaTalk"]
+	path = SE310 - Công nghệ .NET/Đồ án môn học/InstaTalk
+	url = https://github.com/phanxuanquang/InstaTalk
+[submodule "IT001 - Nhập môn lập trình/Thực hành/Introduction-To-Programming-UIT"]
+	path = IT001 - Nhập môn lập trình/Thực hành/Introduction-To-Programming-UIT
+	url = https://github.com/phanxuanquang/Introduction-To-Programming-UIT
+[submodule "IT002 - Lập trình hướng đối tượng/Thực hành/Object-Oriented-Programming-UIT"]
+	path = IT002 - Lập trình hướng đối tượng/Thực hành/Object-Oriented-Programming-UIT
+	url = https://github.com/phanxuanquang/Object-Oriented-Programming-UIT
+[submodule "IT003 - Cấu trúc dữ liệu và giải thuật/Thực hành/Data-Structures-and-Algorithms-UIT"]
+	path = IT003 - Cấu trúc dữ liệu và giải thuật/Thực hành/Data-Structures-and-Algorithms-UIT
+	url = https://github.com/phanxuanquang/Data-Structures-and-Algorithms-UIT
+[submodule "IT008 - Lập trình trực quan/Thực hành/Visual-Programming-UIT"]
+	path = IT008 - Lập trình trực quan/Thực hành/Visual-Programming-UIT
+	url = https://github.com/phanxuanquang/Visual-Programming-UIT
+[submodule "SE405 - Chuyên đề Mobile and Pervasive Computing/Đồ án/LapTeller-Mobile"]
+	path = SE405 - Chuyên đề Mobile and Pervasive Computing/Đồ án/LapTeller-Mobile
+	url = https://github.com/phanxuanquang/LapTeller-Mobile
+[submodule "SE400 - Seminar các vấn đề hiện đại của CNPM/Đồ án/EngAce"]
+	path = SE400 - Seminar các vấn đề hiện đại của CNPM/Đồ án/EngAce
+	url = https://github.com/phanxuanquang/EngAce
+[submodule "SE401 - Mẫu thiết kế/Đồ án/Design-Patterns"]
+	path = SE401 - Mẫu thiết kế/Đồ án/Design-Patterns
+	url = https://github.com/phanxuanquang/Design-Patterns
+[submodule "SE104 - Nhập môn Công nghệ phần mềm/Đồ án/studMin"]
+	path = SE104 - Nhập môn Công nghệ phần mềm/Đồ án/studMin
+	url = https://github.com/phanxuanquang/studMin
